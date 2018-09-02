@@ -1,0 +1,1 @@
+- [ ] some eval idea, using nltk to anaylze the question and answer(from on paticular user ;)) and to predict what will he/she answer for the next question 
